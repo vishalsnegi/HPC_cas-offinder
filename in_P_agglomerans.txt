@@ -1,0 +1,3 @@
+/home/vn81649/casoffinder_IN_hpc/P_agglomerans.fasta
+NNNNNNNNNNNNNNNNNNNNNRG
+TAGTCCATCGAACCGAAGTANRG 6

@@ -1,0 +1,4 @@
+/home/vn81649/casoffinder_IN_hpc/P_ananatis.fasta
+casoffinder_IN_hpc/P_ananatis.fasta
+NNNNNNNNNNNNNNNNNNNNNRG
+TAGTCCATCGAACCGAAGTANRG 6
